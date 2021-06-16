@@ -1,0 +1,393 @@
+[	
+		{
+			"kategoriAd": "Müstakil Ev",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/mustakilev/mustakilev1.png",
+			"ilanNumarasi": "9600001",
+			"ilanAdi": "Kuşadası Satılık Müstakil Bahçeli Ev",
+			"ilanFiyati": "1.500.000 TL",
+			"ilanAdresi": "Aydın/Kuşadası",
+			"ilanTarihi": "31 Mayıs 2021",
+			"ilanIsitmaTipi": "Sobalı",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "5-10",
+			"ilanMetrekaresi": "150 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Müstakil Ev",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/mustakilev/mustakilev2.png",
+			"ilanNumarasi": "9600002",
+			"ilanAdi": "Karabağlar Satılık Müstakil Ev",
+			"ilanFiyati": "260.000 TL",
+			"ilanAdresi": "İzmir/Karabağlar",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Sobalı",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "11-20",
+			"ilanMetrekaresi": "80 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Müstakil Ev",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/mustakilev/mustakilev3.png",
+			"ilanNumarasi": "9600003",
+			"ilanAdi": "Geniş Bahçeli 2+1 Satılık Müstakil Ev",
+			"ilanFiyati": "360.000 TL",
+			"ilanAdresi": "İzmir/Tire",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Klima",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "16-20",
+			"ilanMetrekaresi": "95 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Müstakil Ev",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/mustakilev/mustakilev4.png",
+			"ilanNumarasi": "9600004",
+			"ilanAdi": "Alakova'da Satılık Müstakil Ev",
+			"ilanFiyati": "400.000 TL",
+			"ilanAdresi": "Konya/Meram",
+			"ilanTarihi": "30 Mayıs 2021",
+			"ilanIsitmaTipi": "Klima",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "11-15",
+			"ilanMetrekaresi": " m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Müstakil Ev",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/mustakilev/mustakilev5.png",
+			"ilanNumarasi": "9600005",
+			"ilanAdi": "Mergenlide Satılık Müstakil Ev",
+			"ilanFiyati": "965.000 TL",
+			"ilanAdresi": "Muğla/Ortaca",
+			"ilanTarihi": "01 Haziran 2021",
+			"ilanIsitmaTipi": "Sobalı",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "16-20",
+			"ilanMetrekaresi": "120 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Daire",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/daire/daire1.png",
+			"ilanNumarasi": "9600006",
+			"ilanAdi": "Gümbet'te Deniz Manzaralı Daire",
+			"ilanFiyati": "1.100.000 TL",
+			"ilanAdresi": "Muğla/Bodrum",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Klima",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "5-10",
+			"ilanMetrekaresi": "80 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Daire",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/daire/daire2.png",
+			"ilanNumarasi": "9600007",
+			"ilanAdi": "ARMONİ-3'de Geniş 3+1 Daire",
+			"ilanFiyati": "845.000 TL",
+			"ilanAdresi": "Kocaeli/Başiskele",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Yerden Isıtma",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "0",
+			"ilanMetrekaresi": "135 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Daire",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/daire/daire3.png",
+			"ilanNumarasi": "9600008",
+			"ilanAdi": "Akçay Merkeze Yakın Daire",
+			"ilanFiyati": "385.000 TL",
+			"ilanAdresi": "Balıkesir/Edremit",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Merkezi",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "0",
+			"ilanMetrekaresi": "100 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Daire",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/daire/daire4.png",
+			"ilanNumarasi": "9600009",
+			"ilanAdi": "Park Manzaralı Ara Katta Daire",
+			"ilanFiyati": "329.000 TL",
+			"ilanAdresi": "Ankara/Keçiören",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "0",
+			"ilanMetrekaresi": "135 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Daire",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/daire/daire5.png",
+			"ilanNumarasi": "9600010",
+			"ilanAdi": "Beylikdüzü'nde Satılık Daire",
+			"ilanFiyati": "430.000 TL",
+			"ilanAdresi": "İstanbul/Beylikdüzü",
+			"ilanTarihi": "31 Mayıs 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "0",
+			"ilanMetrekaresi": "101 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Bina",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/bina/bina1.png",
+			"ilanNumarasi": "9600011",
+			"ilanAdi": "Bağcılar'da 3 Katlı Satılık Bina",
+			"ilanFiyati": "460.000 TL",
+			"ilanAdresi": "İstanbul/Bağcılar",
+			"ilanTarihi": "21 Mayıs 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "26-30",
+			"ilanMetrekaresi": "85 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Bina",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/bina/bina2.png",
+			"ilanNumarasi": "9600012",
+			"ilanAdi": "Ortaköy Çarşı 5 Katlı Bina",
+			"ilanFiyati": "28.000.000 TL",
+			"ilanAdresi": "İstanbul/Beşiktaş",
+			"ilanTarihi": "16 Mayıs 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "30-34",
+			"ilanMetrekaresi": "1500 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Bina",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/bina/bina3.png",
+			"ilanNumarasi": "9600013",
+			"ilanAdi": "Cadde Üzerinde Satılık Bina",
+			"ilanFiyati": "445.000 TL",
+			"ilanAdresi": "Denizli/Merkez",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "21-25",
+			"ilanMetrekaresi": "283 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Bina",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/bina/bina4.png",
+			"ilanNumarasi": "9600014",
+			"ilanAdi": "Çarşı Merkez'de Satılık Bina",
+			"ilanFiyati": "890.000 TL",
+			"ilanAdresi": "Sakarya/Adapazarı",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "2+1",
+			"ilanBinaYasi": "5-10",
+			"ilanMetrekaresi": "240 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Çiftlik Evi",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/ciftlikevi/ciftlikevi1.png",
+			"ilanNumarasi": "9600015",
+			"ilanAdi": "Gökova'da Satılık Çiftlik Evi",
+			"ilanFiyati": "12.750.000 TL",
+			"ilanAdresi": "Muğla/Ula",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Yerden Isıtma",
+			"ilanOdaSayisi": "5+1",
+			"ilanBinaYasi": "25",
+			"ilanMetrekaresi": "900 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Çiftlik Evi",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/ciftlikevi/ciftlikevi2.png",
+			"ilanNumarasi": "9600016",
+			"ilanAdi": "Bursa İznik'te Satılık Çiftlik Evi",
+			"ilanFiyati": "8.800.000 TL",
+			"ilanAdresi": "Bursa/İznik",
+			"ilanTarihi": "01 Haziran 2021",
+			"ilanIsitmaTipi": "Yerden Isıtma",
+			"ilanOdaSayisi": "6+1",
+			"ilanBinaYasi": "6",
+			"ilanMetrekaresi": "600 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Çiftlik Evi",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/ciftlikevi/ciftlikevi3.png",
+			"ilanNumarasi": "9600017",
+			"ilanAdi": "Gökçealan'da Satılık Çiftlik Evi",
+			"ilanFiyati": "3.400.000 TL",
+			"ilanAdresi": "İzmir/Selçuk",
+			"ilanTarihi": "01 Haziran 2021",
+			"ilanIsitmaTipi": "Yerden Isıtma",
+			"ilanOdaSayisi": "5+1",
+			"ilanBinaYasi": "5",
+			"ilanMetrekaresi": "500 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Çiftlik Evi",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/ciftlikevi/ciftlikevi4.png",
+			"ilanNumarasi": "9600018",
+			"ilanAdi": "Gökçehöyük'te Satılık Çiftlik Evi",
+			"ilanFiyati": "3.120.000 TL",
+			"ilanAdresi": "Ankara/Gölbaşı",
+			"ilanTarihi": "31 Mayıs 2021",
+			"ilanIsitmaTipi": "Yerden Isıtma",
+			"ilanOdaSayisi": "4+1",
+			"ilanBinaYasi": "7",
+			"ilanMetrekaresi": "550 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Köşk",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/kosk/kosk1.png",
+			"ilanNumarasi": "9600019",
+			"ilanAdi": "Caddebostan'da Satılık Köşk",
+			"ilanFiyati": "90.000.000 TL",
+			"ilanAdresi": "İstanbul/Kadıköy",
+			"ilanTarihi": "03 Haziran 2021",
+			"ilanIsitmaTipi": "Merkezi",
+			"ilanOdaSayisi": "7+2",
+			"ilanBinaYasi": "50",
+			"ilanMetrekaresi": "800 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Köşk",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/kosk/kosk2.png",
+			"ilanNumarasi": "9600020",
+			"ilanAdi": "Çengelköy'de Satılık Köşk",
+			"ilanFiyati": "30.000.000 TL",
+			"ilanAdresi": "İstanbul/Üsküdar",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "7+2",
+			"ilanBinaYasi": "35",
+			"ilanMetrekaresi": "700 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Köşk",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/kosk/kosk3.png",
+			"ilanNumarasi": "9600021",
+			"ilanAdi": "Beykoz'da Satılık Köşk",
+			"ilanFiyati": "10.000.000 TL",
+			"ilanAdresi": "İstanbul/Beykoz",
+			"ilanTarihi": "01 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "6+2",
+			"ilanBinaYasi": "25",
+			"ilanMetrekaresi": "600 m2",
+			"ilanBalkonDurumu": "Yok"
+
+		},
+		{
+			"kategoriAd": "Köşk",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/kosk/kosk4.png",
+			"ilanNumarasi": "9600022",
+			"ilanAdi": "Kandilli'de Satılık Köşk",
+			"ilanFiyati": "12.000.000 TL",
+			"ilanAdresi": "İstanbul/Üsküdar",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "7+2",
+			"ilanBinaYasi": "28",
+			"ilanMetrekaresi": "900 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Villa",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/villa/villa1.png",
+			"ilanNumarasi": "9600023",
+			"ilanAdi": "Kuşadası'nda Havuzlu Satılık Villa",
+			"ilanFiyati": "2.340.000 TL",
+			"ilanAdresi": "Aydın/Kuşadası",
+			"ilanTarihi": "03 Haziran 2021",
+			"ilanIsitmaTipi": "Klima",
+			"ilanOdaSayisi": "5+1",
+			"ilanBinaYasi": "16-20",
+			"ilanMetrekaresi": "250 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Villa",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/villa/villa2.png",
+			"ilanNumarasi": "9600024",
+			"ilanAdi": "İzmir Çeşme'de Satılık Bahçeli Villa",
+			"ilanFiyati": "4.500.000 TL",
+			"ilanAdresi": "İzmir/Çeşme",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Şömine",
+			"ilanOdaSayisi": "4+1",
+			"ilanBinaYasi": "5-10",
+			"ilanMetrekaresi": "198 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Villa",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/villa/villa3.png",
+			"ilanNumarasi": "9600025",
+			"ilanAdi": "Ortakent'te Satılık Havuzlu Villa",
+			"ilanFiyati": "3.250.000 TL",
+			"ilanAdresi": "Muğla/Bodrum",
+			"ilanTarihi": "02 Haziran 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "3+1",
+			"ilanBinaYasi": "5-10",
+			"ilanMetrekaresi": "140 m2",
+			"ilanBalkonDurumu": "Var"
+
+		},
+		{
+			"kategoriAd": "Villa",
+			"ilanImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/ilanresim/villa/villa4.png",
+			"ilanNumarasi": "9600026",
+			"ilanAdi": "Altınoluk'ta Satılık Havuzlu Villa",
+			"ilanFiyati": "2.500.000 TL",
+			"ilanAdresi": "Balıkesir/Edremit",
+			"ilanTarihi": "31 Mayıs 2021",
+			"ilanIsitmaTipi": "Doğalgaz",
+			"ilanOdaSayisi": "4+1",
+			"ilanBinaYasi": "15-20",
+			"ilanMetrekaresi": "150 m2",
+			"ilanBalkonDurumu": "Var"
+
+		}
+		
+]		

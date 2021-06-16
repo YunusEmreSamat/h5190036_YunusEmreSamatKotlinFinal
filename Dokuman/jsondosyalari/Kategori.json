@@ -1,0 +1,31 @@
+[
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/mustakilev.jpg",
+			"kategoriAd": "Müstakil Ev"
+
+		},
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/daire.jpg",
+			"kategoriAd": "Daire"
+		},
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/bina.jpg",
+			"kategoriAd": "Bina"
+
+		},
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/ciftlikevi.png",
+			"kategoriAd": "Çiftlik Evi"
+
+		},
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/kosk.jpg",
+			"kategoriAd": "Köşk"
+
+		},
+		{
+			"kategoriImg": "https://raw.githubusercontent.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/main/Dokuman/kategoriresim/villa.jpg",
+			"kategoriAd": "Villa"
+
+		}
+]
