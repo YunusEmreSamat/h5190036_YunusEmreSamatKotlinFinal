@@ -10,7 +10,6 @@ Bu uygulama Emlakjet uygulaması baz alınarak hazırlanmış bir klon uygulamad
 ![Architecture](https://github.com/YunusEmreSamat/h5190036_YunusEmreSamatKotlinFinal/blob/main/Dokuman/mimaripaket.png)
 
 ## Libraries and tools 🛠
-
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
