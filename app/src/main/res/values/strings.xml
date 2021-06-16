@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Emlakjet</string>
+
+    <string name="txtSplashSloganText">Sen o evi hayal et, gerisi Emlakjet!</string>
+
+    <string name="progressDialogMessage">Lütfen Bekleyiniz...</string>
+
+    <string name="siralamaIsmeGoreArtan">İsme Göre Artan</string>
+    <string name="siralamaIsmeGoreAzalan">İsme Göre Azalan</string>
+
+    <string name="alertTitle">İNTERNET BAĞLANTINIZ YOK!!!</string>
+    <string name="alertMessage">Uygulamayı kullanmak için internete bağlanmanız gerekmektedir.</string>
+    <string name="alertPositive">İNTERNETE BAĞLAN</string>
+    <string name="alertNegative">UYGULAMADAN ÇIK</string>
+
+    <string name="txtLoginUyeGirisText">Üye Girişi</string>
+
+    <string name="btnLoginFacebook">Facebook ile Devam Et</string>
+
+    <string name="txtLoginVeyaText">veya</string>
+
+    <string name="txtLoginEpostaText">E-Posta Adresiniz</string>
+
+    <string name="txtLoginSifreText">Şifreniz</string>
+
+    <string name="btnLoginGirisYapText">Giriş Yap</string>
+
+    <string name="txtLoginSifreUnuttumText">Şifreni mi unuttun?</string>
+
+    <string name="txtLoginUyelikYokText">Üyeliğin yok mu?</string>
+
+    <string name="txtLoginUyeOlText">HEMEN ÜYE OL</string>
+
+
+    <string name="alertTitle2">UYGULAMADAN ÇIKMAK ÜZERESİNİZ !!!</string>
+    <string name="alertMessage2">Uygulamadan çıkmak istiyor musunuz?</string>
+    <string name="alertPositive2">UYGULAMADAN ÇIK</string>
+    <string name="alertNegative2">İPTAL</string>
+
+
+    <string name="txtCategoryNameText">Hoşgeldiniz</string>
+
+
+    <string name="txtCategoryKategorilerText">Kategoriler</string>
+
+    <string name="etxtSearchHint">Search</string>
+
+    <string name="txtCardKategoriAdText">Müstakil Ev</string>
+
+    <string name="txtCardIconText">></string>
+
+    <string name="txtCardIlanAdText">Bahçeli Müstakil Ev / House With Private Garden İn Fatih</string>
+
+    <string name="txtCardIlanFiyatText">3.475.000 TL</string>
+
+    <string name="txtCardIlanAdresText">Fatih / Topkapı Mahallesi</string>
+
+    <string name="txtCardIlanTarihText">16 Mayıs 2021</string>
+
+    <string name="alanZorunlu">Bu alan zorunludur.</string>
+    <string name="kullaniciBilgiHatalı">Kullanıcı bilgileri hatalı!!!</string>
+
+    <string name="siralamaAlertTitle">Sıralama Türü Seçiniz</string>
+
+    <string name="txtListIlanlarText">İlanlar</string>
+
+    <string name="btnListListeTurDegistir">Liste Türü Değiştir</string>
+
+    <string name="btnListListeTurLinear">Liste</string>
+    <string name="btnListListeTurGrid">Izgara</string>
+
+    <string name="btnListSirala">Sırala</string>
+
+    <string name="txtİlanDetaylariText">İlan Detayları</string>
+
+    <string name="txtIlanAdiText">Ümraniye Satılık Müstakil Ev</string>
+
+    <string name="txtIlanAdresi">İstanbul/Ümraniye</string>
+
+    <string name="txtIlanFiyatiText">33.120.000 TL</string>
+
+    <string name="txtIlanTarihText">04 Haziran 2021</string>
+
+    <string name="txtIlanBilgileriText">İlan Bilgileri</string>
+
+    <string name="txtIlanTarihTextText">İlan Tarihi</string>
+
+    <string name="txtIlanNumaraText">İlan Numarası</string>
+
+    <string name="txtIlanNumarasi">9058899</string>
+
+    <string name="txtNetMetrekareText">Net m2</string>
+
+    <string name="txtIlanMetrekaresi">101</string>
+
+    <string name="txtOdaSayiText">Oda Sayısı</string>
+
+    <string name="txtIlanOdaSayisi">9 + 1</string>
+
+    <string name="txtBinaYasiText">Bina Yaşı</string>
+
+    <string name="txtIlanBinaYasi">11-12</string>
+
+    <string name="txtIsitmaText">Isıtma</string>
+
+    <string name="txtIlanIsitmaTipi">Sobalı</string>
+
+    <string name="txtBalkonText">Balkon</string>
+
+    <string name="txtIlanBalkonDurum">Yok</string>
+
+    <string name="txtEmlakAdText">Yunus Emlak</string>
+
+    <string name="txtEmlakciAdText">Yunus Emre Samat</string>
+
+    <string name="btnHemenAra">Hemen Ara</string>
+
+</resources>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cardborder">2dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="imgSplashLogoWidth">178dp</dimen>
+    <dimen name="imgSplashLogoHeight">91dp</dimen>
+    <dimen name="imgSplashLogoMarginTop">240dp</dimen>
+
+    <dimen name="txtSplashSloganTextSize">17sp</dimen>
+    <dimen name="txtSplashSloganTextMarginTop">8dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="imgLoginLogoWidth">149dp</dimen>
+    <dimen name="imgLoginLogoHeight">67dp</dimen>
+    <dimen name="imgLoginLogoMarginTop">20dp</dimen>
+    <dimen name="imgLoginLogoMarginStart">20dp</dimen>
+
+    <dimen name="txtLoginUyeGirisTextMarginStart">20dp</dimen>
+    <dimen name="txtLoginUyeGirisTextMarginTop">15dp</dimen>
+    <dimen name="txtLoginUyeGirisTextSize">20sp</dimen>
+
+    <dimen name="btnLoginFacebookMarginLeft">20dp</dimen>
+    <dimen name="btnLoginFacebookMarginTop">10dp</dimen>
+    <dimen name="btnLoginFacebookMarginRight">20dp</dimen>
+
+    <dimen name="txtLoginVeyaTextMarginTop">10dp</dimen>
+
+    <dimen name="txtLoginEpostaTextSize">18sp</dimen>
+    <dimen name="txtLoginEpostaTextMarginStart">20dp</dimen>
+    <dimen name="txtLoginEpostaTextMarginTop">15dp</dimen>
+
+    <dimen name="eTxtLoginEpostaMarginLeft">17dp</dimen>
+    <dimen name="eTxtLoginEpostaMarginRight">20dp</dimen>
+
+    <dimen name="txtEpostaBosHataMarginStart">20dp</dimen>
+    <dimen name="txtEpostaBosHataTextSize">15sp</dimen>
+
+    <dimen name="txtLoginSifreTextSize">18sp</dimen>
+    <dimen name="txtLoginSifreTextMarginStart">20dp</dimen>
+    <dimen name="txtLoginSifreTextMarginTop">25dp</dimen>
+
+    <dimen name="eTxtLoginSifreMarginLeft">17dp</dimen>
+    <dimen name="eTxtLoginSifreMarginRight">20dp</dimen>
+
+    <dimen name="txtSifreBosHataMarginStart">20dp</dimen>
+    <dimen name="txtSifreBosHataTextSize">15sp</dimen>
+
+    <dimen name="btnLoginGirisYapHeight">60dp</dimen>
+    <dimen name="btnLoginGirisYapMarginLeft">20dp</dimen>
+    <dimen name="btnLoginGirisYapMarginTop">40dp</dimen>
+    <dimen name="btnLoginGirisYapMarginRight">20dp</dimen>
+    <dimen name="btnLoginGirisYapTextSize">20sp</dimen>
+
+    <dimen name="txtLoginSifreUnuttumTextMarginTop">15dp</dimen>
+    <dimen name="txtLoginSifreUnuttumTextSize">16sp</dimen>
+
+    <dimen name="txtLoginUyelikYokTextMarginTop">10dp</dimen>
+    <dimen name="txtLoginUyelikYokTextMarginEnd">120dp</dimen>
+    <dimen name="txtLoginUyelikYokTextSize">16sp</dimen>
+
+    <dimen name="txtLoginUyeOlTextMarginStart">5dp</dimen>
+    <dimen name="txtLoginUyeOlTextMarginTop">10dp</dimen>
+    <dimen name="txtLoginUyeOlTextSize">16sp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="CardViewKategoriAnaLayoutPadding">16dp</dimen>
+
+    <dimen name="CardMarginStart">5dp</dimen>
+
+    <dimen name="imgCardLogoWidth">70dp</dimen>
+    <dimen name="imgCardLogoHeight">70dp</dimen>
+    <dimen name="imgCardLogoMarginStart">20dp</dimen>
+    <dimen name="imgCardLogoMarginTop">15dp</dimen>
+    <dimen name="imgCardLogoMarginEnd">20dp</dimen>
+
+    <dimen name="txtCardKategoriAdTextMarginTop">10dp</dimen>
+    <dimen name="txtCardKategoriAdTextMarginBottom">5dp</dimen>
+
+    <dimen name="txtCardIconTextMarginStart">10dp</dimen>
+    <dimen name="txtCardIconTextMarginTop">15dp</dimen>
+    <dimen name="txtCardIconTextMarginEnd">10dp</dimen>
+    <dimen name="txtCardIconTextSize">20sp</dimen>
+
+
+    /-----------------------------------------------
+
+    <dimen name="imgCategoryLogoWidth">150dp</dimen>
+    <dimen name="imgCategoryLogoHeight">44dp</dimen>
+    <dimen name="imgCategoryLogoMarginStart">15dp</dimen>
+    <dimen name="imgCategoryLogoMarginTop">15sp</dimen>
+
+    <dimen name="txtCategoryNameTextMarginTop">10dp</dimen>
+    <dimen name="txtCategoryNameTextMarginEnd">25dp</dimen>
+    <dimen name="txtCategoryNameTextSize">16sp</dimen>
+
+    <dimen name="txtCategoryKategorilerTextMarginStart">15dp</dimen>
+    <dimen name="txtCategoryKategorilerTextMarginTop">20dp</dimen>
+    <dimen name="txtCategoryKategorilerTextTextSize">24sp</dimen>
+
+    <dimen name="searchVwKategoriMarginStart">15dp</dimen>
+    <dimen name="searchVwKategoriMarginTop">20dp</dimen>
+    <dimen name="searchVwKategoriMarginEnd">25dp</dimen>
+
+    <dimen name="rcwKategorilerHeight">0dp</dimen>
+    <dimen name="rcwKategorilerMarginTop">15dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="CardViewIlanAnaLayoutPadding">13dp</dimen>
+
+    <dimen name="IlanCardViewMarginStart">0dp</dimen>
+
+    <dimen name="imgCardIlanLogoWidth">350dp</dimen>
+    <dimen name="imgCardIlanLogoHeight">350dp</dimen>
+    <dimen name="imgCardIlanLogoMarginTop">0dp</dimen>
+
+    <dimen name="txtCardIlanAdMarginTop">5dp</dimen>
+    <dimen name="txtCardIlanAdTextSize">20sp</dimen>
+
+    <dimen name="txtCardIlanFiyatMarginTop">5dp</dimen>
+    <dimen name="txtCardIlanFiyatTextSize">18sp</dimen>
+
+    <dimen name="txtCardIlanAdresMarginTop">10dp</dimen>
+
+    <dimen name="txtCardIlanTarihMarginEnd">5dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="CardViewIlanGridAnaLayoutPadding">13dp</dimen>
+
+    <dimen name="IlanGridCardViewMarginStart">0dp</dimen>
+
+    <dimen name="imgCardIlanGridLogoWidth">100dp</dimen>
+    <dimen name="imgCardIlanGridLogoHeight">100dp</dimen>
+    <dimen name="imgCardIlanGridLogoMarginStart">30dp</dimen>
+    <dimen name="imgCardIlanGridLogoMarginTop">0dp</dimen>
+
+    <dimen name="txtCardIlanGridAdWidth">150dp</dimen>
+    <dimen name="txtCardIlanGridAdMarginTop">10dp</dimen>
+    <dimen name="txtCardIlanGridAdTextSize">20sp</dimen>
+
+    <dimen name="txtCardIlanGridFiyatMarginTop">5dp</dimen>
+    <dimen name="txtCardIlanGridFiyatTextSize">18sp</dimen>
+
+    <dimen name="txtCardIlanGridAdresMarginTop">10dp</dimen>
+
+    <dimen name="txtCardIlanGridTarihMarginTop">8dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="txtListIlanlarTextMarginStart">30dp</dimen>
+    <dimen name="txtListIlanlarTextMarginTop">15dp</dimen>
+    <dimen name="txtListIlanlarTextSize">24sp</dimen>
+
+    <dimen name="linearLayoutMarginTop">10dp</dimen>
+
+    <dimen name="btnListListeTurDegistirWidth">150dp</dimen>
+    <dimen name="btnListListeTurDegistirHeight">55dp</dimen>
+    <dimen name="btnListListeTurDegistirTextSize">10sp</dimen>
+
+    <dimen name="btnListSiralaHeight">55dp</dimen>
+    <dimen name="btnListSiralaTextSize">10sp</dimen>
+
+    <dimen name="rcvIlanlarHeight">0dp</dimen>
+
+    /-----------------------------------------------
+
+    <dimen name="txtİlanDetaylariTextMarginTop">15dp</dimen>
+    <dimen name="txtİlanDetaylariTextTextSize">20sp</dimen>
+
+    <dimen name="nestedScroolMarginTop">55dp</dimen>
+    <dimen name="nestedScroolMarginBottom">65dp</dimen>
+
+    <dimen name="imgIlanLogoHeight">300dp</dimen>
+
+    <dimen name="txtIlanAdiMarginStart">15dp</dimen>
+    <dimen name="txtIlanAdiMarginTop">10dp</dimen>
+    <dimen name="txtIlanAdiMarginEnd">15dp</dimen>
+    <dimen name="txtIlanAdiTextSize">20sp</dimen>
+
+    <dimen name="txtIlanAdresiMarginStart">15dp</dimen>
+    <dimen name="txtIlanAdresiMarginTop">10dp</dimen>
+    <dimen name="txtIlanAdresiMarginEnd">15dp</dimen>
+    <dimen name="txtIlanAdresiTextSize">16sp</dimen>
+
+    <dimen name="txtIlanFiyatiMarginTop">8dp</dimen>
+    <dimen name="txtIlanFiyatiTextSize">20sp</dimen>
+
+    <dimen name="txtIlanTarihMarginEnd">10dp</dimen>
+    <dimen name="txtIlanTarihTextSize">16sp</dimen>
+
+    <dimen name="txtIlanBilgileriTextMarginStart">15dp</dimen>
+    <dimen name="txtIlanBilgileriTextMarginTop">80dp</dimen>
+    <dimen name="txtIlanBilgileriTextMarginEnd">15dp</dimen>
+    <dimen name="txtIlanBilgileriTextTextSize">24sp</dimen>
+
+    <dimen name="txtIlanTarihTextMarginTop">8dp</dimen>
+    <dimen name="txtIlanTarihTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanTarihiMarginEnd">15dp</dimen>
+    <dimen name="txtIlanTarihiTextSize">16sp</dimen>
+
+    <dimen name="txtIlanNumaraTextMarginTop">10dp</dimen>
+    <dimen name="txtIlanNumaraTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanNumarasiTextSize">16sp</dimen>
+
+    <dimen name="txtNetMetrekareTextMarginTop">10dp</dimen>
+    <dimen name="txtNetMetrekareTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanMetrekaresiTextSize">16sp</dimen>
+
+    <dimen name="txtOdaSayiTextMarginTop">10dp</dimen>
+    <dimen name="txtOdaSayiTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanOdaSayisiTextSize">16sp</dimen>
+
+    <dimen name="txtBinaYasiTextMarginTop">10dp</dimen>
+    <dimen name="txtBinaYasiTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanBinaYasiTextSize">16sp</dimen>
+
+    <dimen name="txtIsitmaTextMarginTop">10dp</dimen>
+    <dimen name="txtIsitmaTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanIsitmaTipiTextSize">16sp</dimen>
+
+    <dimen name="txtBalkonTextMarginTop">10dp</dimen>
+    <dimen name="txtBalkonTextTextSize">16sp</dimen>
+
+    <dimen name="txtIlanBalkonDurumTextSize">16sp</dimen>
+
+    <dimen name="txtEmlakAdTextMarginStart">20dp</dimen>
+    <dimen name="txtEmlakAdTextTextSize">20sp</dimen>
+
+    <dimen name="txtEmlakciAdTextMarginBottom">10dp</dimen>
+
+    <dimen name="btnHemenAraMarginEnd">10dp</dimen>
+
+</resources>

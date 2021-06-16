@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.login.LoginActivity">
+
+    <ImageView
+        android:id="@+id/imgLoginLogo"
+        android:layout_width="@dimen/imgLoginLogoWidth"
+        android:layout_height="@dimen/imgLoginLogoHeight"
+        android:layout_marginStart="@dimen/imgLoginLogoMarginStart"
+        android:layout_marginTop="@dimen/imgLoginLogoMarginTop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/emlakjetloginlogo" />
+
+    <TextView
+        android:id="@+id/txtLoginUyeGirisText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtLoginUyeGirisTextMarginStart"
+        android:layout_marginTop="@dimen/txtLoginUyeGirisTextMarginTop"
+        android:text="@string/txtLoginUyeGirisText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtLoginUyeGirisTextSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgLoginLogo" />
+
+    <Button
+        android:id="@+id/btnLoginFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/btnLoginFacebookMarginLeft"
+        android:layout_marginTop="@dimen/btnLoginFacebookMarginTop"
+        android:layout_marginRight="@dimen/btnLoginFacebookMarginRight"
+        android:backgroundTint="@color/btnLoginFacebook"
+        android:text="@string/btnLoginFacebook"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginUyeGirisText" />
+
+    <TextView
+        android:id="@+id/txtLoginVeyaText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/txtLoginVeyaTextMarginTop"
+        android:text="@string/txtLoginVeyaText"
+        android:textColor="@color/grey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnLoginFacebook" />
+
+    <TextView
+        android:id="@+id/txtLoginEpostaText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtLoginEpostaTextMarginStart"
+        android:layout_marginTop="@dimen/txtLoginEpostaTextMarginTop"
+        android:text="@string/txtLoginEpostaText"
+        android:textColor="@color/grey"
+        android:textSize="@dimen/txtLoginEpostaTextSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginVeyaText" />
+
+    <EditText
+        android:id="@+id/eTxtLoginEposta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/eTxtLoginEpostaMarginLeft"
+        android:layout_marginRight="@dimen/eTxtLoginEpostaMarginRight"
+        android:backgroundTint="@color/grey"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginEpostaText" />
+
+    <TextView
+        android:id="@+id/txtEpostaBosHata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtEpostaBosHataMarginStart"
+        android:textColor="@color/red"
+        android:textSize="@dimen/txtEpostaBosHataTextSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTxtLoginEposta" />
+
+    <TextView
+        android:id="@+id/txtLoginSifreText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtLoginSifreTextMarginStart"
+        android:layout_marginTop="@dimen/txtLoginSifreTextMarginTop"
+        android:text="@string/txtLoginSifreText"
+        android:textSize="@dimen/txtLoginSifreTextSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTxtLoginEposta" />
+
+    <EditText
+        android:id="@+id/eTxtLoginSifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/eTxtLoginSifreMarginLeft"
+        android:layout_marginRight="@dimen/eTxtLoginSifreMarginRight"
+        android:backgroundTint="@color/grey"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginSifreText" />
+
+    <TextView
+        android:id="@+id/txtSifreBosHata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtSifreBosHataMarginStart"
+        android:textColor="@color/red"
+        android:textSize="@dimen/txtSifreBosHataTextSize"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTxtLoginSifre" />
+
+    <Button
+        android:id="@+id/btnLoginGirisYap"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/btnLoginGirisYapHeight"
+        android:layout_marginLeft="@dimen/btnLoginGirisYapMarginLeft"
+        android:layout_marginTop="@dimen/btnLoginGirisYapMarginTop"
+        android:layout_marginRight="@dimen/btnLoginFacebookMarginRight"
+        android:backgroundTint="@color/green"
+        android:text="@string/btnLoginGirisYapText"
+        android:textSize="@dimen/btnLoginGirisYapTextSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eTxtLoginSifre" />
+
+    <TextView
+        android:id="@+id/txtLoginSifreUnuttumText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/txtLoginSifreUnuttumTextMarginTop"
+        android:text="@string/txtLoginSifreUnuttumText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtLoginSifreUnuttumTextSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnLoginGirisYap" />
+
+    <TextView
+        android:id="@+id/txtLoginUyelikYokText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/txtLoginUyelikYokTextMarginTop"
+        android:layout_marginEnd="@dimen/txtLoginUyelikYokTextMarginEnd"
+        android:text="@string/txtLoginUyelikYokText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtLoginUyelikYokTextSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginSifreUnuttumText" />
+
+    <TextView
+        android:id="@+id/txtLoginUyeOlText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtLoginUyeOlTextMarginStart"
+        android:layout_marginTop="@dimen/txtLoginUyeOlTextMarginTop"
+        android:text="@string/txtLoginUyeOlText"
+        android:textColor="@color/green"
+        android:textSize="@dimen/txtLoginUyeOlTextSize"
+        app:layout_constraintStart_toEndOf="@+id/txtLoginUyelikYokText"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginSifreUnuttumText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

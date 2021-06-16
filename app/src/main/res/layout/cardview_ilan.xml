@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/CardViewIlanAnaLayoutPadding">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/listeCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/IlanCardViewMarginStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imgCardIlanLogo"
+                android:layout_width="@dimen/imgCardIlanLogoWidth"
+                android:layout_height="@dimen/imgCardIlanLogoHeight"
+                android:layout_marginTop="@dimen/imgCardIlanLogoMarginTop"
+                android:scaleType="fitXY"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtCardIlanAd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtCardIlanAdMarginTop"
+                android:text="@string/txtCardIlanAdText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtCardIlanAdTextSize"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imgCardIlanLogo" />
+
+            <TextView
+                android:id="@+id/txtCardIlanFiyat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtCardIlanFiyatMarginTop"
+                android:text="@string/txtCardIlanFiyatText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtCardIlanFiyatTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtCardIlanAd"
+                app:layout_constraintTop_toBottomOf="@+id/txtCardIlanAd" />
+
+            <TextView
+                android:id="@+id/txtCardIlanAdres"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtCardIlanAdresMarginTop"
+                android:text="@string/txtCardIlanAdresText"
+                app:layout_constraintStart_toStartOf="@+id/txtCardIlanFiyat"
+                app:layout_constraintTop_toBottomOf="@+id/txtCardIlanFiyat" />
+
+            <TextView
+                android:id="@+id/txtCardIlanTarih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/txtCardIlanTarihMarginEnd"
+                android:text="@string/txtCardIlanTarihText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/txtCardIlanAdres" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

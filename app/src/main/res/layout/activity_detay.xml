@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.detay.DetayActivity">
+
+    <TextView
+        android:id="@+id/txtİlanDetaylariText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/txtİlanDetaylariTextMarginTop"
+        android:text="@string/txtİlanDetaylariText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtİlanDetaylariTextTextSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/nestedScroolMarginTop"
+        android:layout_marginBottom="@dimen/nestedScroolMarginBottom"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toTopOf="@+id/txtEmlakAdText"
+        app:layout_constraintTop_toBottomOf="@+id/txtİlanDetaylariText"
+        tools:layout_editor_absoluteX="16dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imgIlanLogo"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/imgIlanLogoHeight"
+                android:scaleType="fitXY"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtIlanAdi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/txtIlanAdiMarginStart"
+                android:layout_marginTop="@dimen/txtIlanAdiMarginTop"
+                android:layout_marginEnd="@dimen/txtIlanAdiMarginEnd"
+                android:text="@string/txtIlanAdiText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanAdiTextSize"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imgIlanLogo" />
+
+            <TextView
+                android:id="@+id/txtIlanAdresi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/txtIlanAdresiMarginStart"
+                android:layout_marginTop="@dimen/txtIlanAdresiMarginTop"
+                android:layout_marginEnd="@dimen/txtIlanAdresiMarginEnd"
+                android:text="@string/txtIlanAdresi"
+                android:textColor="@color/grey"
+                android:textSize="@dimen/txtIlanAdresiTextSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanAdi" />
+
+            <TextView
+                android:id="@+id/txtIlanFiyati"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtIlanFiyatiMarginTop"
+                android:text="@string/txtIlanFiyatiText"
+                android:textColor="@color/green"
+                android:textSize="@dimen/txtIlanFiyatiTextSize"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/txtIlanAdresi"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanAdresi" />
+
+            <TextView
+                android:id="@+id/txtIlanTarih"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/txtIlanTarihMarginEnd"
+                android:text="@string/txtIlanTarihText"
+                android:textSize="@dimen/txtIlanTarihTextSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/txtIlanFiyati" />
+
+            <TextView
+                android:id="@+id/txtIlanBilgileriText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/txtIlanBilgileriTextMarginStart"
+                android:layout_marginTop="@dimen/txtIlanBilgileriTextMarginTop"
+                android:layout_marginEnd="@dimen/txtIlanBilgileriTextMarginEnd"
+                android:text="@string/txtIlanBilgileriText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanBilgileriTextTextSize"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanFiyati" />
+
+            <TextView
+                android:id="@+id/txtIlanTarihText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtIlanTarihTextMarginTop"
+                android:text="@string/txtIlanTarihTextText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanTarihTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtIlanBilgileriText"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanBilgileriText" />
+
+            <TextView
+                android:id="@+id/txtIlanTarihi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/txtIlanTarihiMarginEnd"
+                android:text="@string/txtIlanTarihText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanTarihiTextSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/txtIlanTarihText" />
+
+            <TextView
+                android:id="@+id/txtIlanNumaraText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtIlanNumaraTextMarginTop"
+                android:text="@string/txtIlanNumaraText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanNumaraTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtIlanTarihText"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanTarihText" />
+
+            <TextView
+                android:id="@+id/txtIlanNumarasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanNumarasi"
+                android:textColor="@color/red"
+                android:textSize="@dimen/txtIlanNumarasiTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanTarihi"
+                app:layout_constraintTop_toTopOf="@+id/txtIlanNumaraText" />
+
+            <TextView
+                android:id="@+id/txtNetMetrekareText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtNetMetrekareTextMarginTop"
+                android:text="@string/txtNetMetrekareText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtNetMetrekareTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtIlanNumaraText"
+                app:layout_constraintTop_toBottomOf="@+id/txtIlanNumaraText" />
+
+            <TextView
+                android:id="@+id/txtIlanMetrekaresi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanMetrekaresi"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanMetrekaresiTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanNumarasi"
+                app:layout_constraintTop_toTopOf="@+id/txtNetMetrekareText" />
+
+            <TextView
+                android:id="@+id/txtOdaSayiText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtOdaSayiTextMarginTop"
+                android:text="@string/txtOdaSayiText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtOdaSayiTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtNetMetrekareText"
+                app:layout_constraintTop_toBottomOf="@+id/txtNetMetrekareText" />
+
+            <TextView
+                android:id="@+id/txtIlanOdaSayisi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanOdaSayisi"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanOdaSayisiTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanMetrekaresi"
+                app:layout_constraintTop_toTopOf="@+id/txtOdaSayiText" />
+
+            <TextView
+                android:id="@+id/txtBinaYasiText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtBinaYasiTextMarginTop"
+                android:text="@string/txtBinaYasiText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtBinaYasiTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtOdaSayiText"
+                app:layout_constraintTop_toBottomOf="@+id/txtOdaSayiText" />
+
+            <TextView
+                android:id="@+id/txtIlanBinaYasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanBinaYasi"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanBinaYasiTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanOdaSayisi"
+                app:layout_constraintTop_toTopOf="@+id/txtBinaYasiText" />
+
+            <TextView
+                android:id="@+id/txtIsitmaText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtIsitmaTextMarginTop"
+                android:text="@string/txtIsitmaText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIsitmaTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtBinaYasiText"
+                app:layout_constraintTop_toBottomOf="@+id/txtBinaYasiText" />
+
+            <TextView
+                android:id="@+id/txtIlanIsitmaTipi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanIsitmaTipi"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanIsitmaTipiTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanBinaYasi"
+                app:layout_constraintTop_toTopOf="@+id/txtIsitmaText" />
+
+            <TextView
+                android:id="@+id/txtBalkonText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtBalkonTextMarginTop"
+                android:text="@string/txtBalkonText"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtBalkonTextTextSize"
+                app:layout_constraintStart_toStartOf="@+id/txtIsitmaText"
+                app:layout_constraintTop_toBottomOf="@+id/txtIsitmaText" />
+
+            <TextView
+                android:id="@+id/txtIlanBalkonDurum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txtIlanBalkonDurum"
+                android:textColor="@color/black"
+                android:textSize="@dimen/txtIlanBalkonDurumTextSize"
+                app:layout_constraintEnd_toEndOf="@+id/txtIlanIsitmaTipi"
+                app:layout_constraintTop_toTopOf="@+id/txtBalkonText" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <TextView
+        android:id="@+id/txtEmlakAdText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/txtEmlakAdTextMarginStart"
+        android:text="@string/txtEmlakAdText"
+        android:textColor="@color/black"
+        android:textSize="@dimen/txtEmlakAdTextTextSize"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/txtEmlakciAdText"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/txtEmlakciAdText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/txtEmlakciAdTextMarginBottom"
+        android:text="@string/txtEmlakciAdText"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/txtEmlakAdText" />
+
+    <Button
+        android:id="@+id/btnHemenAra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/btnHemenAraMarginEnd"
+        android:backgroundTint="@color/green"
+        android:drawableLeft="@drawable/ic_baseline_call_24"
+        android:text="@string/btnHemenAra"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txtEmlakAdText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
